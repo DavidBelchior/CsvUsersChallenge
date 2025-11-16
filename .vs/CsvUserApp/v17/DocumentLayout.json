@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.consoleapp\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|solutionrelative:csvuserapp.consoleapp\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800B832-EE16-419D-A26D-B8FD82108FF8}|CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\cscuserapp.infrastructure\\repositories\\usercsvfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800B832-EE16-419D-A26D-B8FD82108FF8}|CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj|solutionrelative:cscuserapp.infrastructure\\repositories\\usercsvfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|solutionrelative:csvuserapp.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\settings\\csvsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\settings\\csvsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\exceptions\\userdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\exceptions\\userdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.consoleapp\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|solutionrelative:csvuserapp.consoleapp\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCB606B-0074-4A79-91D4-52B41408919E}|CsvUserApp.ConsoleApp\\CsvUserApp.ConsoleApp.csproj|solutionrelative:csvuserapp.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.tests\\core\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|solutionrelative:csvuserapp.tests\\core\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.tests\\infrastructure\\repositories\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|solutionrelative:csvuserapp.tests\\infrastructure\\repositories\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCFE96B-5CEB-4C3E-A4A1-133B3F7532E4}|CsvUserApp.Core\\CsvUserApp.Core.csproj|solutionrelative:csvuserapp.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Configuration.Abstractions.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.tests\\core\\validators\\uservalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|solutionrelative:csvuserapp.tests\\core\\validators\\uservalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\csvuserapp.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCA3C90-FEC4-480E-9564-44B4F5509FA3}|CsvUserApp.Tests\\CsvUserApp.Tests.csproj|solutionrelative:csvuserapp.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800B832-EE16-419D-A26D-B8FD82108FF8}|CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj|c:\\users\\david\\desktop\\hiscox_takehome\\csvuserapp\\cscuserapp.infrastructure\\csvuserapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3800B832-EE16-419D-A26D-B8FD82108FF8}|CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj|solutionrelative:cscuserapp.infrastructure\\csvuserapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCsvFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CscUserApp.Infrastructure\\Repositories\\UserCsvFileRepository.cs",
+              "RelativeDocumentMoniker": "CscUserApp.Infrastructure\\Repositories\\UserCsvFileRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CscUserApp.Infrastructure\\Repositories\\UserCsvFileRepository.cs",
+              "RelativeToolTip": "CscUserApp.Infrastructure\\Repositories\\UserCsvFileRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:36:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\App.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.ConsoleApp\\App.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\App.cs",
+              "RelativeToolTip": "CsvUserApp.ConsoleApp\\App.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:47:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:48:06.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Entities\\User.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:47:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvSettings.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Settings\\CsvSettings.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Settings\\CsvSettings.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Settings\\CsvSettings.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Settings\\CsvSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:43:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "CsvUserApp.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:47:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Infrastructure\\Repositories\\UserRepositoryTests.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Tests\\Infrastructure\\Repositories\\UserRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Infrastructure\\Repositories\\UserRepositoryTests.cs",
+              "RelativeToolTip": "CsvUserApp.Tests\\Infrastructure\\Repositories\\UserRepositoryTests.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAmwMgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:32:21.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Bcl.AsyncInterfaces.targets",
+              "DocumentMoniker": "C:\\Users\\David\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "ToolTip": "C:\\Users\\David\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Bcl.AsyncInterfaces.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-21T20:46:15.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Extensions.Configuration.Abstractions.targets",
+              "DocumentMoniker": "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Configuration.Abstractions.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Configuration.Abstractions.targets",
+              "ToolTip": "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Configuration.Abstractions.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Configuration.Abstractions.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-21T20:46:15.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.csv",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\users.csv",
+              "RelativeDocumentMoniker": "CsvUserApp.ConsoleApp\\users.csv",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\users.csv",
+              "RelativeToolTip": "CsvUserApp.ConsoleApp\\users.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-21T16:47:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CsvUserApp.ConsoleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.ConsoleApp\\appsettings.json",
+              "RelativeToolTip": "CsvUserApp.ConsoleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T16:47:25.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataException.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Exceptions\\UserDataException.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Exceptions\\UserDataException.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Exceptions\\UserDataException.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Exceptions\\UserDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:47:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:40:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:29:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Core\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Tests\\Core\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Core\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "CsvUserApp.Tests\\Core\\Services\\UserServiceTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAtwFIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:35:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CsvUserApp.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:48:02.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Core\\Validators\\UserValidatorTests.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Tests\\Core\\Validators\\UserValidatorTests.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Core\\Validators\\UserValidatorTests.cs",
+              "RelativeToolTip": "CsvUserApp.Tests\\Core\\Validators\\UserValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:30:11.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "CsvUserApp.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CsvUserApp.Tests\\Usings.cs",
+              "RelativeToolTip": "CsvUserApp.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:49:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CsvUserApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\David\\Desktop\\Hiscox_TakeHome\\CsvUserApp\\CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj",
+              "RelativeToolTip": "CscUserApp.Infrastructure\\CsvUserApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T17:00:45.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
