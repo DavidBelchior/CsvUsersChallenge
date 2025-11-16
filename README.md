@@ -1,36 +1,24 @@
-# CSV Data Processing Exercise
+# CSV Data Processing in .NET
 
-## Objective
+## Overview
 
-The goal of this exercise is to demonstrate your ability to create a .NET solution that reads data from a CSV file and processes this data.
+This project demonstrates the ability to create a .NET solution that reads and processes data from a CSV file.
 
-## Prerequisites
+## Implementation Details
 
-- Create a .NET solution using any IDE and .NET version of your choice.
-- Create a CSV file named `users.csv` with the following content:
-
-Id,Name,Email,Age
-1,John Doe,john.doe@example.com
-,31
-2,Jane Smith,jane.smith@example.com
-,25
-3,Bob Johnson,bob.johnson@example.com
-,40
-
-
-## Requirements
-
-- Implement the necessary classes to read and parse the CSV file.
-- Implement three methods to perform the following operations:
-  1. Find the user with the email `jane.smith@example.com`.
-  2. Find all users older than 30.
+- A CSV file named `users.csv` was created with sample user data.
+- Classes were implemented to read and parse the CSV data.
+- Three methods were created to perform specific operations:
+  1. Retrieve the user with a specific email address.
+  2. Find all users older than 30 years.
   3. Calculate the average age of all users.
-- Ensure the solution builds and runs without errors.
-- Include unit tests to validate the functionality of these methods.
+- Unit tests were written to validate the functionality of each method.
+- The solution builds and runs successfully without errors.
 
-## How to Run
+## How to Use
 
-1. Build the solution using your preferred IDE.
-2. Place the `users.csv` file in the appropriate directory so the program can access it.
-3. Run the application to process the CSV data.
-4. Run the unit tests to verify the correctness of the methods.
+- Build and run the solution in any .NET compatible IDE.
+- Ensure the `users.csv` file is located in the expected directory.
+- Execute the program to see the results of the data processing.
+- Run the included unit tests to verify the implementation.
+
